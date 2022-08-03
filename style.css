@@ -58,7 +58,8 @@ body {
     color: white;
     height: 60px;
     border-radius: 5px;
-    width: 500px;
+    padding: 1rem;
+    width: auto;
     display: flex;
     align-items: center;
     justify-content: center;
